@@ -1,0 +1,12 @@
+{
+  "name": "tw-heroku",
+  "version": "0.0.1",
+  "description": "TiddlyWiki configured to run on Heroku",
+  "dependencies": {
+    "tiddlywiki": "~5.1.0"
+  },
+  "main": "",
+  "scripts": {
+    "start": "tiddlywiki . --server"
+  }
+}
