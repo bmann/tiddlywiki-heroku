@@ -7,6 +7,6 @@
   },
   "main": "",
   "scripts": {
-    "start": "tiddlywiki . --server"
+    "start": "tiddlywiki . --server $PORT"
   }
 }
