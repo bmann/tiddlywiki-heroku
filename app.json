@@ -1,6 +1,6 @@
 {
     "name": "TiddlyWiki on Heroku",
-    "description": "This app does one little thing, and does it well.",
+    "description": "TiddlyWiki configured to run on Heroku",
     "keywords": [
       "tiddlywiki",
       "wiki"
