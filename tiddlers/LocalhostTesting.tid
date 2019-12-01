@@ -1,0 +1,10 @@
+created: 20191130225224757
+modified: 20191130231640749
+tags: 
+title: LocalhostTesting
+tmap.id: 009c75c7-742c-4f5e-b11f-a37d30ba7c40
+type: text/vnd.tiddlywiki
+
+This is a file for testing on localhost.
+
+Now running `heroku local` -- and it just works, port defaults to 5000.
