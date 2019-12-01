@@ -1,0 +1,9 @@
+{
+    "name": "TiddlyWiki on Heroku",
+    "description": "This app does one little thing, and does it well.",
+    "keywords": [
+      "tiddlywiki",
+      "wiki"
+    ],
+    "repository": "https://github.com/bmann/tiddlywiki-heroku"
+}
