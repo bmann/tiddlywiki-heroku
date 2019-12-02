@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "TiddlyWiki configured to run on Heroku",
   "dependencies": {
-    "tiddlywiki": "~5.1.0"
+    "tiddlywiki": "~5.1.18"
   },
   "main": "",
   "scripts": {
-    "start": "tiddlywiki . --listen host=0.0.0.0 port=$PORT"
+    "start": "tiddlywiki . --listen host=0.0.0.0 port=$PORT \"readers=(anon)\" \"writers=(authenticated)\" username=$ADMIN password=$PASSWORD"
   }
 }

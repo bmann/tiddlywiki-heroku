@@ -5,5 +5,15 @@
       "tiddlywiki",
       "wiki"
     ],
-    "repository": "https://github.com/bmann/tiddlywiki-heroku"
+    "repository": "https://github.com/bmann/tiddlywiki-heroku",
+    "env": {
+        "ADMIN": {
+          "description": "The username for your admin to login with",
+          "value": "wikiwriter"
+        },
+        "PASSWORD": {
+          "description": "Password for the admin account",
+          "value": "ch4ng3m3"
+        }
+    }
 }
